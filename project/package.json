@@ -1,0 +1,7 @@
+{
+  "name": "example",
+  "dependencies": {
+    "@angular/compiler": "^13.1.2",
+    "@angular/router": "^13.1.2"
+  }
+}
